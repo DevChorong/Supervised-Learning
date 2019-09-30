@@ -8,3 +8,5 @@ Data set - Iris
 > 1. Decision Tree
 > 2. KNN Algorithm
 > 3. Linear Model
+>  1. Linear Regression ( OLS, Ridge, Lasso )
+>  2. Linear Classification ( LinearRegression, SVC-SVM )
